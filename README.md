@@ -1,18 +1,1 @@
-# Guide Gastronomique de Bruxelles 🍽️
-
-Bienvenue sur le guide des meilleurs restaurants gastronomiques de Bruxelles !
-
-## À propos
-Ce site web présente une sélection exclusive des 10 meilleurs restaurants de Bruxelles, avec des informations détaillées et des avis clients.
-
-## Fonctionnalités
-- Liste des 10 meilleurs restaurants
-- Design moderne et responsive
-- Informations détaillées pour chaque établissement
-- Avis clients vérifiés
-
-## Prochaines améliorations
-- Carte interactive
-- Système de filtres
-- Galerie photos
-- Mode sombre
+{"encoding": "base64", "content": "IyBHdWlkZSBHYXN0cm9ub21pcXVlIGRlIEJydXhlbGxlcyDwn42NClxuQmllbnZlbnVlIHN1ciBsZSBndWlkZSBkZXMgbWVpbGxldXJzIHJlc3RhdXJhbnRzIGdhc3Ryb25vbWlxdWVzIGRlIEJydXhlbGxlcyAhXG5cbiMjIMOAIHByb3Bvc1xuQ2Ugc2l0ZSB3ZWIgcHLDqXNlbnRlIHVuZSBzw6lsZWN0aW9uIGV4Y2x1c2l2ZSBkZXMgMTAgbWVpbGxldXJzIHJlc3RhdXJhbnRzIGRlIEJydXhlbGxlcywgYXZlYyBkZXMgaW5mb3JtYXRpb25zIGTDqXRhaWxsw6llcyBldCBkZXMgYXZpcyBjbGllbnRzLlxuXG4jIyBGb25jdGlvbm5hbGl0w6lzXG4tIExpc3RlIGRlcyAxMCBtZWlsbGV1cnMgcmVzdGF1cmFudHNcbi0gRGVzaWduIG1vZGVybmUgZXQgcmVzcG9uc2l2ZVxuLSBJbmZvcm1hdGlvbnMgZMOpdGFpbGzDqWVzIHBvdXIgY2hhcXVlIMOpdGFibGlzc2VtZW50XG4tIEF2aXMgY2xpZW50cyB2w6lyaWZpw6lzXG5cbiMjIFByb2NoYWluZXMgYW3DqWxpb3JhdGlvbnNcbi0gQ2FydGUgaW50ZXJhY3RpdmVcbi0gU3lzdMOobWUgZGUgZmlsdHJlc1xuLSBHYWxlcmllIHBob3Rvc1xuLSBNb2RlIHNvbWJyZSJ9
